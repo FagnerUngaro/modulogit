@@ -1,2 +1,1 @@
-Meu primeiro projeto no git
-Nova linha adicionada
+Meu primeiro projeto no GIT
